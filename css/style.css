@@ -1,0 +1,731 @@
+
+
+body{
+	font-family: 'Comfortaa' !important;
+}
+.bg-color-2 {
+	color: #FFFFFF !important;
+background: -webkit-gradient(linear, left top, right top, from(#5e0000 ), to(orange));
+background: -webkit-linear-gradient(left, #5e0000 , orange);
+background: -moz-linear-gradient(left, #5e0000 , orange);
+background: -o-linear-gradient(left, #5e0000 , orange);
+background: linear-gradient(to right, #5e0000 , orange);
+}
+.bg-color-1 {
+	background-color : #062c39;
+  }
+  .bg-color-1 h2,.bg-color-1 h3,.bg-color-1 h4,.bg-color-1 h5,.bg-color-1 h6 {
+	color:white !important;
+  }
+  .bg-color-1 p {
+	color:#ccc !important;
+  }
+
+
+  .bg-color-1 .heading .separator span{
+background-color:darkorange !important;
+  }
+
+  #tokenomics .heading .separator span{
+	background-color:grey !important;
+	  }
+	  #tokenomics{
+		background: -webkit-gradient(linear, left top, right top, from(#5e0000 ), to(orange));
+		background: -webkit-linear-gradient(left, #5e0000 , orange);
+		background: -moz-linear-gradient(left, #5e0000 , orange);
+		background: -o-linear-gradient(left, #5e0000 , orange);
+		background: linear-gradient(to right, #5e0000 , orange);
+		color:white !important;
+	  }
+
+	  #tokenomics h5{
+color:white !important;
+font-size: 1.1rem;
+font-weight:bold;
+}
+	  #tokenomics h5 span{
+color:white !important;
+font-size: .8rem;
+font-weight:normal;
+}
+#tokenomics h2, #tokenomics h6, #tokenomics div, #tokenomics span,  #tokenomics p {
+	color:white !important;
+
+}
+#tokenomics .heading .separator span{
+
+	background-color:#ccc !important;
+}
+#contact a {
+	color: #8a0000;
+}
+#contact a:hover {
+	color: gray;
+}
+.navbar ul.navbar-nav li .nav-link{
+	font-size:.9rem !important;
+}
+.navbar ul.navbar-nav li.dropdown a{
+	font-size:.85rem !important;
+}	
+
+.navbar ul.navbar-nav li.dropdown {
+	margin-top:5px !important;
+}
+.head-area  .toplogowrapper
+{
+	background-color:transparent !important;
+}
+.head-area  .toplogowrapper  .crypto-logo-img {
+	width: 400px !important;
+	
+
+}
+.head-area .toplogowrapper   {
+  background: none !important;
+	box-shadow:none !important;
+	
+
+}
+	.head-area .head-content {
+			height:100vh !important;
+		}
+
+.head-area .head-content h4{
+	font-size:.85rem !important;
+	}
+.head-area .head-content h3{
+font-size:1.1rem !important;
+}
+.head-area .head-content h1{
+	font-size:1.6rem !important;
+
+}
+
+header .navbar.navbar-fixed {
+    
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+
+}
+.head-content {
+	padding-top:0 !important;
+}
+header .navbar.navbar-fixed #buynav{
+color:gold !important;
+	}
+
+.vertical-social .midnightHeader.default {
+    background: #8a0000 !important;}
+
+	.roadmap .swiper-slide {
+		
+		border-top: 4px solid #8a0000;
+	}
+
+
+	.exchange-listing .listing .col h2{
+		font-size:1.2rem !important;
+		}
+			.exchange-listing .listing .col h4{
+		font-size:.95rem !important;
+		}
+
+	@media (max-width: 1400px) {
+		.head-area .head-content {
+			height:100vh !important;
+		}
+	  }
+
+	  @media (max-width: 1400px) {
+		.head-area  .toplogowrapper  .crypto-logo-img {
+			
+			 width: 300px !important;
+			 
+		 
+		 }
+	}
+
+	@media (max-width: 991.98px) {
+		.head-area .head-content {
+			height:120vh !important;
+		}
+
+	  }
+
+	@media (max-width: 991.98px) {
+		
+		 .pl-5, .px-5{
+			padding-left:0rem !important
+  
+		}
+
+	}
+
+@media (max-width: 991.98px)
+	{
+	.main-menu.navbar.navbar-absolute.open {
+		background: #5e0000
+		}
+
+
+		.exchange-listing .listing .col h2{
+			font-size:0.90rem !important;
+			}
+				.exchange-listing .listing .col h4{
+			font-size:.80rem !important;
+			}
+	}
+
+	@media (max-width: 991.98px){
+.main-menu.navbar .dropdown-menu {
+    background: #8f0000;
+	}
+	}
+
+	@media (max-width: 575.98px) {
+	    
+	    #tweety .logo2{
+width:90%;
+}
+	    
+	    
+	    
+span.mspan{
+	font-size:0.6rem;
+	margin:0 auto;
+	padding:0;
+}
+#home{
+	text-align:center !important;
+}
+		.exchange-listing .listing .col h2{
+			font-size:0.80rem !important;
+			}
+				.exchange-listing .listing .col h4{
+			font-size:.80rem !important;
+			}
+		.head-area .head-content .banner-content h1{
+			margin-top: 1rem !important
+		}
+		.head-area .head-content {
+			height:140vh !important;
+		}
+		.head-area .head-content .banner-content{
+			text-align:center;
+		}
+
+		.head-area .head-content #col-uptext{
+			text-align:left;
+		}
+		.head-area .head-content #col-uplink{
+			text-align:center;
+			margin-top:2rem !important;
+		}
+		.head-area  .toplogowrapper  .crypto-logo-img {
+		
+			 width: 230px !important;
+			 
+		 
+		 }
+	  .roadmap .swiper-slide{
+		  width:200px !important;
+	  }
+	  .mt-5 {
+		  margin-top:2rem !important
+	  }
+	  .pl-5, .px-5{
+		  padding-left:0rem !important
+
+	  }
+	  
+	   .main-menu.navbar .navbar-toggler{
+		  margin-left:1rem;
+	  }
+	  	  #tokenomics h5{
+color:black !important;
+font-size: .85rem;
+font-weight:bold;
+}
+	  #tokenomics h5 span{
+color:black !important;
+font-size: .7rem;
+font-weight:normal;
+}
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Template level css needed for all 3d-animation pages
+*   ----------------------------------------------------------------------------------------------*/
+.svg-wrapper {
+	background-image : -webkit-linear-gradient(20deg, #140E38 0%, #140E38 25%, #14387B 35%, #14387B 65%, #140E38 75%, #140E38 100%);
+	background-image :    -moz-linear-gradient(20deg, #140E38 0%, #140E38 25%, #14387B 35%, #14387B 65%, #140E38 75%, #140E38 100%);
+	background-image :      -o-linear-gradient(20deg, #140E38 0%, #140E38 25%, #14387B 35%, #14387B 65%, #140E38 75%, #140E38 100%);
+	background-image :         linear-gradient(70deg, #140E38 0%, #140E38 25%, #14387B 35%, #14387B 65%, #140E38 75%, #140E38 100%);
+  }
+  
+ .cic-logo-animation {
+	-webkit-animation : updown_logo 4s ease infinite;
+	   -moz-animation : updown_logo 4s ease infinite;
+		 -o-animation : updown_logo 4s ease infinite;
+			animation : updown_logo 4s ease infinite;
+  }
+  
+.svg-elements-1-animation {
+	-webkit-animation : updown1 3s ease 2;
+	   -moz-animation : updown1 3s ease 2;
+		 -o-animation : updown1 3s ease 2;
+			animation : updown1 3s ease 2;
+  }
+  
+ .svg-elements-2-animation {
+	-webkit-animation : updown2 2s ease 2;
+	   -moz-animation : updown2 2s ease 2;
+		 -o-animation : updown2 2s ease 2;
+			animation : updown2 2s ease 2;
+  }
+  
+  @-webkit-keyframes updown_logo {
+	0% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(16px);
+			  transform : translateY(16px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  @-moz-keyframes updown_logo {
+	0% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+	50% {
+	  -moz-transform : translateY(16px);
+		   transform : translateY(16px);
+	}
+	100% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+  }
+  
+  @-o-keyframes updown_logo {
+	0% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+	50% {
+	  -o-transform : translateY(16px);
+		 transform : translateY(16px);
+	}
+	100% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+  }
+  
+  @keyframes updown_logo {
+	0% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(16px);
+		 -moz-transform : translateY(16px);
+		   -o-transform : translateY(16px);
+			  transform : translateY(16px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  @-webkit-keyframes updown1 {
+	0% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(8px);
+			  transform : translateY(8px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  @-moz-keyframes updown1 {
+	0% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+	50% {
+	  -moz-transform : translateY(8px);
+		   transform : translateY(8px);
+	}
+	100% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+  }
+  
+  @-o-keyframes updown1 {
+	0% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+	50% {
+	  -o-transform : translateY(8px);
+		 transform : translateY(8px);
+	}
+	100% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+  }
+  
+  @keyframes updown1 {
+	0% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(8px);
+		 -moz-transform : translateY(8px);
+		   -o-transform : translateY(8px);
+			  transform : translateY(8px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  @-webkit-keyframes updown2 {
+	0% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(8px);
+			  transform : translateY(8px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  @-moz-keyframes updown2 {
+	0% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+	50% {
+	  -moz-transform : translateY(8px);
+		   transform : translateY(8px);
+	}
+	100% {
+	  -moz-transform : translateY(0px);
+		   transform : translateY(0px);
+	}
+  }
+  
+  @-o-keyframes updown2 {
+	0% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+	50% {
+	  -o-transform : translateY(8px);
+		 transform : translateY(8px);
+	}
+	100% {
+	  -o-transform : translateY(0px);
+		 transform : translateY(0px);
+	}
+  }
+  
+  @keyframes updown2 {
+	0% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+	50% {
+	  -webkit-transform : translateY(8px);
+		 -moz-transform : translateY(8px);
+		   -o-transform : translateY(8px);
+			  transform : translateY(8px);
+	}
+	100% {
+	  -webkit-transform : translateY(0px);
+		 -moz-transform : translateY(0px);
+		   -o-transform : translateY(0px);
+			  transform : translateY(0px);
+	}
+  }
+  
+  #svg-animation .path {
+	fill : none;
+	stroke-dasharray : 1000;
+	stroke-dashoffset : 1000;
+	-webkit-animation : dash 3s linear forwards;
+	   -moz-animation : dash 3s linear forwards;
+		 -o-animation : dash 3s linear forwards;
+			animation : dash 3s linear forwards;
+  }
+  
+  @-webkit-keyframes dash {
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @-moz-keyframes dash {
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @-o-keyframes dash {
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @keyframes dash {
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  #svg-animation .path-reverse {
+	fill : none;
+	stroke-dasharray : 500;
+	stroke-dashoffset : 500;
+	-webkit-animation : dash-reverse 2s linear forwards;
+	   -moz-animation : dash-reverse 2s linear forwards;
+		 -o-animation : dash-reverse 2s linear forwards;
+			animation : dash-reverse 2s linear forwards;
+  }
+  
+  @-webkit-keyframes dash-reverse {
+	from {
+	  stroke-dashoffset : -500;
+	}
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @-moz-keyframes dash-reverse {
+	from {
+	  stroke-dashoffset : -500;
+	}
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @-o-keyframes dash-reverse {
+	from {
+	  stroke-dashoffset : -500;
+	}
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+  
+  @keyframes dash-reverse {
+	from {
+	  stroke-dashoffset : -500;
+	}
+	to {
+	  stroke-dashoffset : 0;
+	}
+  }
+
+
+
+
+  #team{
+
+		color: #FFFFFF !important;
+		padding-top: 5.125	rem	;
+		background: -webkit-gradient(linear, left top, right top, from(#5e0000 ), to(orange));
+		background: -webkit-linear-gradient(left, #5e0000 , orange);
+		background: -moz-linear-gradient(left, #5e0000 , orange);
+		background: -o-linear-gradient(left, #5e0000 , orange);
+		background: linear-gradient(to right, #5e0000 , orange);
+  }
+  #team div, #team span, #team p {
+	color: #FFFFFF !important;
+  }
+
+  #team h2{
+
+	color: #fff !important;
+  } 
+  #team h6{
+
+	color: #fff !important;
+  }
+  
+  
+  
+  
+  
+  
+    #tweety .heading .separator span{
+	background-color:grey !important;
+	  }
+	  #tweety{
+		background: -webkit-gradient(linear, left top, right top, from(#5e0000 ), to(orange));
+		background: -webkit-linear-gradient(left, #5e0000 , orange);
+		background: -moz-linear-gradient(left, #5e0000 , orange);
+		background: -o-linear-gradient(left, #5e0000 , orange);
+		background: linear-gradient(to right, #5e0000 , orange);
+		color:white !important;
+	  }
+
+	  #tweety h5{
+color:white !important;
+font-size: 1.1rem;
+font-weight:bold;
+}
+	  #tweety h5 span{
+color:white !important;
+font-size: .8rem;
+font-weight:normal;
+}
+#tweety h2, #tweety h6, #tweety div, #tweety span,  #tweety p {
+	color:white !important;
+
+}
+#tweety .heading .separator span{
+
+	background-color:#ccc !important;
+}
+#tweety .logo2{
+    margin-top:20px;
+    margin-bottom:20px;
+}
